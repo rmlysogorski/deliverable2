@@ -1,0 +1,7 @@
+C:\Users\Richie\Documents\Grand_Circus\prework\deliverable2\deliverable2\bin\Debug\deliverable2.exe.config
+C:\Users\Richie\Documents\Grand_Circus\prework\deliverable2\deliverable2\bin\Debug\deliverable2.exe
+C:\Users\Richie\Documents\Grand_Circus\prework\deliverable2\deliverable2\bin\Debug\deliverable2.pdb
+C:\Users\Richie\Documents\Grand_Circus\prework\deliverable2\deliverable2\obj\Debug\deliverable2.csprojAssemblyReference.cache
+C:\Users\Richie\Documents\Grand_Circus\prework\deliverable2\deliverable2\obj\Debug\deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\Richie\Documents\Grand_Circus\prework\deliverable2\deliverable2\obj\Debug\deliverable2.exe
+C:\Users\Richie\Documents\Grand_Circus\prework\deliverable2\deliverable2\obj\Debug\deliverable2.pdb
